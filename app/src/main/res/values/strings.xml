@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidocrappsampleActivity!</string>
+    <string name="app_name">Snap Calories</string>
+    <string name="LangDefault">language code</string>
+    <string name="keyDefault">api key</string>
+    <string name="action_settings">test</string>
+    <string name="restaurant">Choose a Restaurant</string>
+    <string name="title_activity_send_image">Image to Text</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sending">Sending Image...</string>
+    <string name="next">Next</string>
+    <string name="instructions">Select your restaurant and click next</string>
+
+</resources>

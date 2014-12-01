@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Follow These Simple Steps"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Take a picture of a menu item"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:paddingBottom="10px"
+        android:paddingTop="100px"/>
+    <Button
+        android:id="@+id/button_capture"
+        android:text="@+string/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:textColor="#eee"
+        android:background="#336600" />
+
+
+</LinearLayout>
